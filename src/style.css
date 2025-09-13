@@ -3,3 +3,23 @@ body {
     background-color: #c0ac76;
     font-family: "Roboto";
 }
+
+.menu ul {
+    font-weight: 500;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #8c5c04;
+    border-radius: 12px;
+
+}
+
+footer address {
+    padding: 10px;          
+    margin: 2%;            /* hindra att text "läcker ut" */
+}
+
