@@ -1,5 +1,5 @@
-/* page background + body text. Note to self: long line is fallback if load fails*/
+/* page background + body text.*/
 body {
     background-color: #c0ac76;
-    font-family: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    font-family: "Roboto";
 }
