@@ -1,0 +1,35 @@
+/* CSS HEX */
+--cod-gray: #0c0c0c;
+--gimblet: #c0ac76;
+--storm-dust: #5f5f5e;
+--tuatara: #3a3a39;
+--gray-asparagus: #4b4c4b;
+--gunsmoke: #838484;
+--outer-space: #2b2c2c;
+--ship-gray: #47444c;
+--jumbo: #7f7b84;
+--chelsea-gem: #8c5c04;
+
+/* SCSS HEX */
+$cod-gray: #0c0c0c;
+$gimblet: #c0ac76;
+$storm-dust: #5f5f5e;
+$tuatara: #3a3a39;
+$gray-asparagus: #4b4c4b;
+$gunsmoke: #838484;
+$outer-space: #2b2c2c;
+$ship-gray: #47444c;
+$jumbo: #7f7b84;
+$chelsea-gem: #8c5c04;
+
+/* SCSS RGB */
+$cod-gray: rgba(12,12,12,1);
+$gimblet: rgba(192,172,118,1);
+$storm-dust: rgba(95,95,94,1);
+$tuatara: rgba(58,58,57,1);
+$gray-asparagus: rgba(75,76,75,1);
+$gunsmoke: rgba(131,132,132,1);
+$outer-space: rgba(43,44,44,1);
+$ship-gray: rgba(71,68,76,1);
+$jumbo: rgba(127,123,132,1);
+$chelsea-gem: rgba(140,92,4,1);
