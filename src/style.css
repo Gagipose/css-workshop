@@ -2,6 +2,7 @@
 body {
     background-color: #c0ac76;
     font-family: "Roboto";
+    padding: 10px;
 }
 
 .menu ul {
@@ -9,26 +10,34 @@ body {
 }
 
 .products {
-    display: flex;   /* line up children horizontally */
-    gap: 16px;       /* space between cards */
+    display: flex;  
+    gap: 16px;      /* space between cards */
     flex-wrap: wrap; /* make them wrap when users window is too small*/
+    justify-content: center;
 }
 
 .item {
-    border: 5px solid black;
+    
+    box-shadow: #8c5c04 5px 5px 15px;
+    box-sizing: border-box;
     border-radius: 10px;
-    padding: 12px;
-    margin: 1px;
-    width: 260px;
-    flex: auto;
-    gap: 10px;
+    width: 250px;
 }
 
 .item img {
-    width: 300px;
+    width: 100%;
     height: auto;
     display: block;
     margin: auto;
+}
+
+.item h3, .item p {
+    margin: 10px;
+}
+
+.retailer {
+    width: 100%;
+    padding-top: 20px;
 }
 
 p {
